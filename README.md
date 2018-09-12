@@ -14,4 +14,3 @@ Defina as funções abaixo, faça o commit e em seguida o push das alterações
     git push <remote> <branch>
 ```
 
-## Parte 2
