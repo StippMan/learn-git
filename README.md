@@ -2,10 +2,10 @@
 ## Parte 1
 Defina as funções abaixo, faça o commit e em seguida o push das alterações
 
-- [ ] Definir função de adição (sum.c)
-- [ ] Definir função de subtração (sub.c)
-- [ ] Definir função de multiplicação (sub.c)
-- [ ] Definir função de divisão (div.c)
+- [X] Definir função de adição (sum.c)
+- [X] Definir função de subtração (sub.c)
+- [X] Definir função de multiplicação (sub.c)
+- [X] Definir função de divisão (div.c)
 
 ### Comandos:
 ```
