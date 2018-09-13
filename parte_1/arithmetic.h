@@ -6,5 +6,6 @@
     extern int sub(int, int);
     extern int mul(int, int);
     extern int div(int, int);
+    extern int fat(int, int);
 
 #endif
