@@ -1,4 +1,5 @@
 # GIT & GITFLOW
+# BRANCH DO STIPPA1
 ## Parte 1
 Defina as funções abaixo, faça o commit e em seguida o push das alterações
 
